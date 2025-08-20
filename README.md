@@ -59,7 +59,7 @@ Simply visit the live demo to experience the full interactive dashboard.
 Option 2: Run Locally
 
 Clone the repository
-bashgit clone https://github.com/YOUR_USERNAME/SentinelAI.git
+bashgit clone https://github.com/natdrz87/SentinelAI.git
 cd SentinelAI
 
 Install dependencies
@@ -267,7 +267,7 @@ Open Source Contributors for various tools and libraries
 
 Developer: Nat Druzian
 Email: druziannatalia@gmail.com
-Live Demo: SentinelAI Dashboard - https://claude.ai/public/artifacts/f41ee7a2-6efe-4648-a18d-84161c8fee79
+Live Demo: SentinelAI Dashboard 
 
 
 🎓 Educational Purpose
