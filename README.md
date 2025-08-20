@@ -18,7 +18,7 @@ Overview Dashboard: Live threat counters and trend visualization
 Log Analysis: Interactive AI-powered log analyzer
 Threat Intelligence: Dynamic threat categorization
 Reports: Weekly security summaries with charts
-Settings: System configuration interface
+Settings: Functional toggle controls
 Alerts: Real-time security notification system
 
 🎯 Project Overview
@@ -139,6 +139,25 @@ SentinelAI/
 │   └── email_security.log
 ├── screenshots/            # Demo screenshots
 └── static/                # Additional demo pages
+    ├── web-demo.html      # Web interface demo
+    ├── cli-demo.html      # CLI terminal demo
+    └── dashboard-demo.html # Dashboard overview
+🎬 Demo Screenshots
+
+📸 How to Create Screenshots: Open the live demo in your browser and use your system's screenshot tool:
+
+Windows: Win+Shift+S or Snipping Tool
+Mac: Cmd+Shift+4
+Chrome: F12 → Device toolbar → Screenshot option
+
+
+Recommended Screenshots:
+
+Main dashboard with live statistics and threat chart
+Log analysis interface showing AI processing and results
+Threat intelligence page with categorized threats
+Mobile responsive view using browser dev tools
+
 🔍 Supported Log Types
 Log TypeDescriptionSample DetectionsSSH LogsAuthentication attemptsBrute force, failed loginsWeb ServerHTTP access logsSQL injection, XSS, scanningFirewallNetwork trafficPort scans, blocked connectionsSystem LogsOS eventsMalware, privilege escalationDatabaseDB access logsUnauthorized queries, data breachesEmail SecurityMail filteringPhishing, malware attachmentsVPN LogsRemote accessSuspicious connections
 🧠 AI Analysis Capabilities
@@ -246,9 +265,11 @@ Open Source Contributors for various tools and libraries
 
 📞 Contact & Support
 
-Developer: Nat Druzian
-Email: druziannatalia@gmail.com
-Live Demo: SentinelAI Dashboard 
+Developer: [Your Name]
+Email: your.email@example.com
+LinkedIn: Your LinkedIn Profile
+Portfolio: Your Portfolio Website
+Live Demo: SentinelAI Dashboard
 
 
 🎓 Educational Purpose
