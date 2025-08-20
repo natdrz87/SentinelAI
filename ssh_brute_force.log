@@ -1,0 +1,13 @@
+2024-08-19 02:15:32 sshd[15234]: Failed password for root from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:35 sshd[15234]: Failed password for root from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:38 sshd[15234]: Failed password for root from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:41 sshd[15234]: Failed password for admin from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:44 sshd[15234]: Failed password for administrator from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:47 sshd[15234]: Failed password for user from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:50 sshd[15234]: Failed password for guest from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:53 sshd[15234]: Failed password for test from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:56 sshd[15234]: Failed password for demo from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:15:59 sshd[15234]: Failed password for oracle from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:16:02 sshd[15234]: Failed password for mysql from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:16:05 sshd[15234]: Failed password for postgres from 185.220.101.42 port 33891 ssh2
+2024-08-19 02:16:08 sshd[15234]: Connection closed by authenticating user root 185.220.101.42 port 33891 [preauth]
