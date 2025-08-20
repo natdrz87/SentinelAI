@@ -265,11 +265,9 @@ Open Source Contributors for various tools and libraries
 
 📞 Contact & Support
 
-Developer: [Your Name]
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-Portfolio: Your Portfolio Website
-Live Demo: SentinelAI Dashboard
+Developer: Nat Druzian
+Email: druziannatalia@gmail.com
+Live Demo: SentinelAI Dashboard - https://claude.ai/public/artifacts/f41ee7a2-6efe-4648-a18d-84161c8fee79
 
 
 🎓 Educational Purpose
